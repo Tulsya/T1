@@ -3,13 +3,17 @@
 ## Код программы:
 
 #include <iostream>
+
 #include <fstream>
+
 #include <vector>
 
 using namespace std;
 
 int main() {
+
     ifstream fin("in.txt");
+    
     ofstream fout("out.txt");
 
     int n, m;
