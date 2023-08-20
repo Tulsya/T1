@@ -1,4 +1,4 @@
-{
+```cpp
 #include <iostream>
 
 #include <fstream>
@@ -42,4 +42,4 @@ int main() {
 
     fout << arr_n[0] << " ";
 }
-}
+```
